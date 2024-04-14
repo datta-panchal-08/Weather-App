@@ -1,0 +1,20 @@
+.infoBox{
+   text-align: center;
+   overflow: hidden;
+}
+.cardContainer{
+    margin-top: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.info{
+    text-align: center;
+    padding: 0 7vw;
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+
+}
